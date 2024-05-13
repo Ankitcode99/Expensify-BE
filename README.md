@@ -12,7 +12,7 @@ This project is an expense tracker application built with Node.js and Typescript
 1. **Clone the Repository:**
 
    ```
-   git clone https://your-github-repo-url.git
+   git clone https://github.com/Ankitcode99/Expensify-BE.git
    ```
 
 2. **Install Dependencies:**
