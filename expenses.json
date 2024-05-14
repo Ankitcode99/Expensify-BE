@@ -1,0 +1,2402 @@
+[
+  {
+    "date": "13-November-2023",
+    "amount": "$475",
+    "category": "Travel",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "7-December-2024",
+    "amount": "$261",
+    "category": "Utilities",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "8-July-2024",
+    "amount": "$89",
+    "category": "Entertainment",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "24-December-2023",
+    "amount": "$533",
+    "category": "Travel",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "4-December-2023",
+    "amount": "$402",
+    "category": "Travel",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "8-October-2024",
+    "amount": "$369",
+    "category": "Utilities",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "17-December-2024",
+    "amount": "$183",
+    "category": "Utilities",
+    "description": "Movie night"
+  },
+  {
+    "date": "1-February-2023",
+    "amount": "$406",
+    "category": "Shopping",
+    "description": "Online shopping"
+  },
+  {
+    "date": "8-August-2023",
+    "amount": "$390",
+    "category": "Shopping",
+    "description": "Movie night"
+  },
+  {
+    "date": "28-October-2024",
+    "amount": "$123",
+    "category": "Utilities",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "11-January-2023",
+    "amount": "$151",
+    "category": "Travel",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "13-March-2023",
+    "amount": "$510",
+    "category": "Utilities",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "18-July-2024",
+    "amount": "$119",
+    "category": "Food",
+    "description": "Online shopping"
+  },
+  {
+    "date": "9-December-2024",
+    "amount": "$229",
+    "category": "Shopping",
+    "description": "Movie night"
+  },
+  {
+    "date": "26-February-2024",
+    "amount": "$198",
+    "category": "Entertainment",
+    "description": "Online shopping"
+  },
+  {
+    "date": "16-September-2023",
+    "amount": "$461",
+    "category": "Travel",
+    "description": "Online shopping"
+  },
+  {
+    "date": "23-October-2023",
+    "amount": "$542",
+    "category": "Food",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "25-September-2023",
+    "amount": "$397",
+    "category": "Food",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "12-February-2023",
+    "amount": "$119",
+    "category": "Entertainment",
+    "description": "Movie night"
+  },
+  {
+    "date": "2-June-2023",
+    "amount": "$486",
+    "category": "Food",
+    "description": "Movie night"
+  },
+  {
+    "date": "19-April-2023",
+    "amount": "$356",
+    "category": "Entertainment",
+    "description": "Online shopping"
+  },
+  {
+    "date": "8-May-2024",
+    "amount": "$324",
+    "category": "Utilities",
+    "description": "Online shopping"
+  },
+  {
+    "date": "6-September-2023",
+    "amount": "$142",
+    "category": "Food",
+    "description": "Online shopping"
+  },
+  {
+    "date": "20-May-2024",
+    "amount": "$200",
+    "category": "Entertainment",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "18-June-2023",
+    "amount": "$287",
+    "category": "Entertainment",
+    "description": "Movie night"
+  },
+  {
+    "date": "14-May-2024",
+    "amount": "$82",
+    "category": "Utilities",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "19-January-2024",
+    "amount": "$388",
+    "category": "Travel",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "13-March-2023",
+    "amount": "$204",
+    "category": "Food",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "26-April-2023",
+    "amount": "$535",
+    "category": "Shopping",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "7-August-2023",
+    "amount": "$389",
+    "category": "Travel",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "22-October-2023",
+    "amount": "$239",
+    "category": "Travel",
+    "description": "Online shopping"
+  },
+  {
+    "date": "21-June-2023",
+    "amount": "$365",
+    "category": "Utilities",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "8-July-2024",
+    "amount": "$370",
+    "category": "Utilities",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "11-January-2024",
+    "amount": "$336",
+    "category": "Entertainment",
+    "description": "Online shopping"
+  },
+  {
+    "date": "17-August-2024",
+    "amount": "$129",
+    "category": "Entertainment",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "5-October-2023",
+    "amount": "$117",
+    "category": "Shopping",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "1-February-2024",
+    "amount": "$368",
+    "category": "Utilities",
+    "description": "Online shopping"
+  },
+  {
+    "date": "26-June-2023",
+    "amount": "$132",
+    "category": "Utilities",
+    "description": "Online shopping"
+  },
+  {
+    "date": "25-September-2023",
+    "amount": "$179",
+    "category": "Travel",
+    "description": "Online shopping"
+  },
+  {
+    "date": "27-June-2024",
+    "amount": "$282",
+    "category": "Utilities",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "23-May-2023",
+    "amount": "$452",
+    "category": "Utilities",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "1-March-2023",
+    "amount": "$504",
+    "category": "Entertainment",
+    "description": "Movie night"
+  },
+  {
+    "date": "27-February-2024",
+    "amount": "$312",
+    "category": "Utilities",
+    "description": "Movie night"
+  },
+  {
+    "date": "17-September-2023",
+    "amount": "$490",
+    "category": "Shopping",
+    "description": "Movie night"
+  },
+  {
+    "date": "26-April-2024",
+    "amount": "$358",
+    "category": "Travel",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "19-January-2023",
+    "amount": "$361",
+    "category": "Shopping",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "2-February-2023",
+    "amount": "$55",
+    "category": "Entertainment",
+    "description": "Movie night"
+  },
+  {
+    "date": "13-January-2024",
+    "amount": "$239",
+    "category": "Shopping",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "20-January-2024",
+    "amount": "$140",
+    "category": "Travel",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "12-May-2023",
+    "amount": "$523",
+    "category": "Travel",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "26-March-2024",
+    "amount": "$532",
+    "category": "Utilities",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "18-December-2023",
+    "amount": "$283",
+    "category": "Shopping",
+    "description": "Online shopping"
+  },
+  {
+    "date": "25-September-2023",
+    "amount": "$68",
+    "category": "Shopping",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "21-June-2024",
+    "amount": "$507",
+    "category": "Food",
+    "description": "Movie night"
+  },
+  {
+    "date": "18-June-2023",
+    "amount": "$488",
+    "category": "Entertainment",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "2-June-2024",
+    "amount": "$512",
+    "category": "Food",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "17-June-2024",
+    "amount": "$332",
+    "category": "Entertainment",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "5-December-2024",
+    "amount": "$100",
+    "category": "Travel",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "26-November-2023",
+    "amount": "$168",
+    "category": "Travel",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "6-October-2024",
+    "amount": "$183",
+    "category": "Shopping",
+    "description": "Movie night"
+  },
+  {
+    "date": "5-January-2024",
+    "amount": "$330",
+    "category": "Food",
+    "description": "Movie night"
+  },
+  {
+    "date": "12-September-2024",
+    "amount": "$480",
+    "category": "Entertainment",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "6-October-2023",
+    "amount": "$91",
+    "category": "Entertainment",
+    "description": "Movie night"
+  },
+  {
+    "date": "9-June-2024",
+    "amount": "$457",
+    "category": "Utilities",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "21-June-2023",
+    "amount": "$99",
+    "category": "Food",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "2-December-2023",
+    "amount": "$448",
+    "category": "Travel",
+    "description": "Online shopping"
+  },
+  {
+    "date": "18-September-2023",
+    "amount": "$333",
+    "category": "Utilities",
+    "description": "Online shopping"
+  },
+  {
+    "date": "4-February-2024",
+    "amount": "$407",
+    "category": "Travel",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "13-December-2023",
+    "amount": "$370",
+    "category": "Travel",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "1-January-2023",
+    "amount": "$498",
+    "category": "Food",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "10-March-2024",
+    "amount": "$224",
+    "category": "Entertainment",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "20-April-2024",
+    "amount": "$162",
+    "category": "Food",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "7-March-2023",
+    "amount": "$385",
+    "category": "Shopping",
+    "description": "Movie night"
+  },
+  {
+    "date": "1-August-2023",
+    "amount": "$127",
+    "category": "Food",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "17-October-2024",
+    "amount": "$165",
+    "category": "Shopping",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "7-October-2024",
+    "amount": "$501",
+    "category": "Shopping",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "13-November-2024",
+    "amount": "$214",
+    "category": "Utilities",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "13-November-2024",
+    "amount": "$381",
+    "category": "Utilities",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "15-September-2024",
+    "amount": "$465",
+    "category": "Utilities",
+    "description": "Movie night"
+  },
+  {
+    "date": "10-May-2024",
+    "amount": "$290",
+    "category": "Food",
+    "description": "Movie night"
+  },
+  {
+    "date": "14-August-2023",
+    "amount": "$229",
+    "category": "Travel",
+    "description": "Movie night"
+  },
+  {
+    "date": "27-October-2024",
+    "amount": "$394",
+    "category": "Travel",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "26-January-2023",
+    "amount": "$216",
+    "category": "Shopping",
+    "description": "Online shopping"
+  },
+  {
+    "date": "6-November-2024",
+    "amount": "$201",
+    "category": "Shopping",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "5-July-2023",
+    "amount": "$91",
+    "category": "Shopping",
+    "description": "Movie night"
+  },
+  {
+    "date": "25-May-2024",
+    "amount": "$453",
+    "category": "Shopping",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "11-July-2024",
+    "amount": "$372",
+    "category": "Utilities",
+    "description": "Movie night"
+  },
+  {
+    "date": "24-August-2023",
+    "amount": "$164",
+    "category": "Food",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "28-February-2024",
+    "amount": "$444",
+    "category": "Travel",
+    "description": "Movie night"
+  },
+  {
+    "date": "4-June-2024",
+    "amount": "$325",
+    "category": "Travel",
+    "description": "Movie night"
+  },
+  {
+    "date": "27-December-2023",
+    "amount": "$475",
+    "category": "Food",
+    "description": "Online shopping"
+  },
+  {
+    "date": "2-May-2023",
+    "amount": "$122",
+    "category": "Shopping",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "19-August-2024",
+    "amount": "$183",
+    "category": "Travel",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "3-September-2024",
+    "amount": "$70",
+    "category": "Travel",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "16-February-2023",
+    "amount": "$518",
+    "category": "Food",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "19-September-2023",
+    "amount": "$522",
+    "category": "Entertainment",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "28-November-2024",
+    "amount": "$238",
+    "category": "Utilities",
+    "description": "Movie night"
+  },
+  {
+    "date": "6-November-2024",
+    "amount": "$82",
+    "category": "Food",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "16-September-2023",
+    "amount": "$291",
+    "category": "Food",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "5-July-2023",
+    "amount": "$148",
+    "category": "Utilities",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "23-May-2023",
+    "amount": "$446",
+    "category": "Shopping",
+    "description": "Online shopping"
+  },
+  {
+    "date": "20-February-2024",
+    "amount": "$131",
+    "category": "Utilities",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "14-May-2024",
+    "amount": "$487",
+    "category": "Travel",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "12-March-2023",
+    "amount": "$342",
+    "category": "Utilities",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "10-January-2024",
+    "amount": "$391",
+    "category": "Travel",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "8-May-2023",
+    "amount": "$206",
+    "category": "Utilities",
+    "description": "Online shopping"
+  },
+  {
+    "date": "11-November-2024",
+    "amount": "$532",
+    "category": "Travel",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "16-November-2024",
+    "amount": "$182",
+    "category": "Food",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "3-June-2024",
+    "amount": "$449",
+    "category": "Shopping",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "18-October-2024",
+    "amount": "$525",
+    "category": "Travel",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "28-March-2024",
+    "amount": "$67",
+    "category": "Travel",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "28-March-2024",
+    "amount": "$236",
+    "category": "Travel",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "11-October-2024",
+    "amount": "$183",
+    "category": "Utilities",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "13-October-2023",
+    "amount": "$281",
+    "category": "Utilities",
+    "description": "Movie night"
+  },
+  {
+    "date": "23-June-2023",
+    "amount": "$130",
+    "category": "Entertainment",
+    "description": "Online shopping"
+  },
+  {
+    "date": "2-November-2023",
+    "amount": "$479",
+    "category": "Utilities",
+    "description": "Movie night"
+  },
+  {
+    "date": "23-July-2024",
+    "amount": "$338",
+    "category": "Shopping",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "24-December-2024",
+    "amount": "$532",
+    "category": "Entertainment",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "28-May-2023",
+    "amount": "$347",
+    "category": "Shopping",
+    "description": "Movie night"
+  },
+  {
+    "date": "8-August-2023",
+    "amount": "$288",
+    "category": "Shopping",
+    "description": "Online shopping"
+  },
+  {
+    "date": "5-February-2024",
+    "amount": "$426",
+    "category": "Entertainment",
+    "description": "Online shopping"
+  },
+  {
+    "date": "5-May-2023",
+    "amount": "$150",
+    "category": "Travel",
+    "description": "Online shopping"
+  },
+  {
+    "date": "5-September-2023",
+    "amount": "$333",
+    "category": "Travel",
+    "description": "Online shopping"
+  },
+  {
+    "date": "23-September-2024",
+    "amount": "$380",
+    "category": "Shopping",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "12-December-2023",
+    "amount": "$183",
+    "category": "Shopping",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "13-January-2024",
+    "amount": "$420",
+    "category": "Utilities",
+    "description": "Movie night"
+  },
+  {
+    "date": "24-October-2024",
+    "amount": "$244",
+    "category": "Shopping",
+    "description": "Movie night"
+  },
+  {
+    "date": "27-March-2024",
+    "amount": "$251",
+    "category": "Entertainment",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "2-June-2023",
+    "amount": "$358",
+    "category": "Shopping",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "10-June-2024",
+    "amount": "$132",
+    "category": "Food",
+    "description": "Online shopping"
+  },
+  {
+    "date": "12-November-2023",
+    "amount": "$469",
+    "category": "Shopping",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "20-December-2024",
+    "amount": "$408",
+    "category": "Utilities",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "5-February-2023",
+    "amount": "$424",
+    "category": "Entertainment",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "14-July-2023",
+    "amount": "$113",
+    "category": "Travel",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "26-September-2024",
+    "amount": "$433",
+    "category": "Food",
+    "description": "Online shopping"
+  },
+  {
+    "date": "10-May-2023",
+    "amount": "$442",
+    "category": "Utilities",
+    "description": "Movie night"
+  },
+  {
+    "date": "26-February-2023",
+    "amount": "$284",
+    "category": "Utilities",
+    "description": "Movie night"
+  },
+  {
+    "date": "22-June-2024",
+    "amount": "$275",
+    "category": "Entertainment",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "15-December-2024",
+    "amount": "$115",
+    "category": "Entertainment",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "15-June-2024",
+    "amount": "$199",
+    "category": "Utilities",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "18-August-2024",
+    "amount": "$109",
+    "category": "Utilities",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "6-March-2024",
+    "amount": "$525",
+    "category": "Food",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "24-July-2024",
+    "amount": "$473",
+    "category": "Entertainment",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "26-August-2023",
+    "amount": "$156",
+    "category": "Food",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "16-May-2023",
+    "amount": "$528",
+    "category": "Food",
+    "description": "Movie night"
+  },
+  {
+    "date": "19-February-2024",
+    "amount": "$411",
+    "category": "Shopping",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "15-January-2024",
+    "amount": "$470",
+    "category": "Shopping",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "9-April-2023",
+    "amount": "$178",
+    "category": "Shopping",
+    "description": "Online shopping"
+  },
+  {
+    "date": "22-October-2023",
+    "amount": "$262",
+    "category": "Utilities",
+    "description": "Movie night"
+  },
+  {
+    "date": "11-July-2023",
+    "amount": "$356",
+    "category": "Shopping",
+    "description": "Online shopping"
+  },
+  {
+    "date": "23-July-2023",
+    "amount": "$469",
+    "category": "Shopping",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "3-June-2024",
+    "amount": "$89",
+    "category": "Entertainment",
+    "description": "Movie night"
+  },
+  {
+    "date": "16-February-2024",
+    "amount": "$132",
+    "category": "Shopping",
+    "description": "Online shopping"
+  },
+  {
+    "date": "7-April-2024",
+    "amount": "$507",
+    "category": "Entertainment",
+    "description": "Online shopping"
+  },
+  {
+    "date": "27-November-2024",
+    "amount": "$188",
+    "category": "Shopping",
+    "description": "Movie night"
+  },
+  {
+    "date": "21-June-2023",
+    "amount": "$265",
+    "category": "Travel",
+    "description": "Online shopping"
+  },
+  {
+    "date": "26-June-2024",
+    "amount": "$172",
+    "category": "Entertainment",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "14-September-2024",
+    "amount": "$173",
+    "category": "Food",
+    "description": "Online shopping"
+  },
+  {
+    "date": "10-June-2023",
+    "amount": "$153",
+    "category": "Shopping",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "13-October-2024",
+    "amount": "$353",
+    "category": "Entertainment",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "7-June-2023",
+    "amount": "$328",
+    "category": "Travel",
+    "description": "Online shopping"
+  },
+  {
+    "date": "14-September-2023",
+    "amount": "$83",
+    "category": "Shopping",
+    "description": "Movie night"
+  },
+  {
+    "date": "2-February-2023",
+    "amount": "$115",
+    "category": "Food",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "13-May-2024",
+    "amount": "$433",
+    "category": "Utilities",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "4-June-2023",
+    "amount": "$459",
+    "category": "Food",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "15-May-2024",
+    "amount": "$353",
+    "category": "Entertainment",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "27-January-2023",
+    "amount": "$514",
+    "category": "Shopping",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "7-March-2024",
+    "amount": "$465",
+    "category": "Utilities",
+    "description": "Movie night"
+  },
+  {
+    "date": "2-July-2024",
+    "amount": "$541",
+    "category": "Travel",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "25-December-2024",
+    "amount": "$390",
+    "category": "Travel",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "13-August-2023",
+    "amount": "$453",
+    "category": "Utilities",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "12-November-2024",
+    "amount": "$507",
+    "category": "Entertainment",
+    "description": "Online shopping"
+  },
+  {
+    "date": "12-December-2024",
+    "amount": "$353",
+    "category": "Travel",
+    "description": "Movie night"
+  },
+  {
+    "date": "19-April-2023",
+    "amount": "$125",
+    "category": "Entertainment",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "20-September-2023",
+    "amount": "$264",
+    "category": "Food",
+    "description": "Online shopping"
+  },
+  {
+    "date": "15-October-2023",
+    "amount": "$233",
+    "category": "Food",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "4-May-2024",
+    "amount": "$342",
+    "category": "Entertainment",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "25-November-2023",
+    "amount": "$217",
+    "category": "Utilities",
+    "description": "Movie night"
+  },
+  {
+    "date": "18-March-2023",
+    "amount": "$373",
+    "category": "Food",
+    "description": "Online shopping"
+  },
+  {
+    "date": "15-December-2023",
+    "amount": "$181",
+    "category": "Food",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "3-August-2024",
+    "amount": "$167",
+    "category": "Entertainment",
+    "description": "Online shopping"
+  },
+  {
+    "date": "9-April-2024",
+    "amount": "$265",
+    "category": "Utilities",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "8-July-2023",
+    "amount": "$295",
+    "category": "Utilities",
+    "description": "Movie night"
+  },
+  {
+    "date": "22-September-2023",
+    "amount": "$256",
+    "category": "Utilities",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "5-April-2024",
+    "amount": "$516",
+    "category": "Travel",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "24-July-2023",
+    "amount": "$497",
+    "category": "Travel",
+    "description": "Movie night"
+  },
+  {
+    "date": "25-December-2023",
+    "amount": "$371",
+    "category": "Travel",
+    "description": "Movie night"
+  },
+  {
+    "date": "6-January-2023",
+    "amount": "$373",
+    "category": "Travel",
+    "description": "Online shopping"
+  },
+  {
+    "date": "16-March-2024",
+    "amount": "$101",
+    "category": "Entertainment",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "21-May-2023",
+    "amount": "$376",
+    "category": "Food",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "28-November-2024",
+    "amount": "$362",
+    "category": "Shopping",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "6-March-2023",
+    "amount": "$385",
+    "category": "Food",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "11-June-2024",
+    "amount": "$483",
+    "category": "Food",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "11-April-2024",
+    "amount": "$262",
+    "category": "Travel",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "24-January-2024",
+    "amount": "$220",
+    "category": "Travel",
+    "description": "Online shopping"
+  },
+  {
+    "date": "2-October-2024",
+    "amount": "$210",
+    "category": "Utilities",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "28-October-2024",
+    "amount": "$296",
+    "category": "Utilities",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "5-June-2023",
+    "amount": "$194",
+    "category": "Shopping",
+    "description": "Movie night"
+  },
+  {
+    "date": "5-August-2023",
+    "amount": "$64",
+    "category": "Entertainment",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "13-June-2024",
+    "amount": "$125",
+    "category": "Travel",
+    "description": "Online shopping"
+  },
+  {
+    "date": "27-June-2024",
+    "amount": "$366",
+    "category": "Utilities",
+    "description": "Movie night"
+  },
+  {
+    "date": "12-October-2023",
+    "amount": "$474",
+    "category": "Food",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "13-May-2024",
+    "amount": "$509",
+    "category": "Entertainment",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "24-December-2023",
+    "amount": "$404",
+    "category": "Entertainment",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "27-September-2023",
+    "amount": "$494",
+    "category": "Travel",
+    "description": "Movie night"
+  },
+  {
+    "date": "13-June-2024",
+    "amount": "$549",
+    "category": "Travel",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "11-March-2024",
+    "amount": "$274",
+    "category": "Shopping",
+    "description": "Online shopping"
+  },
+  {
+    "date": "15-August-2024",
+    "amount": "$376",
+    "category": "Travel",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "10-December-2023",
+    "amount": "$499",
+    "category": "Utilities",
+    "description": "Online shopping"
+  },
+  {
+    "date": "15-April-2024",
+    "amount": "$261",
+    "category": "Travel",
+    "description": "Online shopping"
+  },
+  {
+    "date": "20-September-2023",
+    "amount": "$60",
+    "category": "Entertainment",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "16-October-2023",
+    "amount": "$268",
+    "category": "Entertainment",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "9-November-2024",
+    "amount": "$322",
+    "category": "Utilities",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "6-December-2023",
+    "amount": "$481",
+    "category": "Travel",
+    "description": "Online shopping"
+  },
+  {
+    "date": "20-January-2024",
+    "amount": "$524",
+    "category": "Entertainment",
+    "description": "Movie night"
+  },
+  {
+    "date": "23-December-2023",
+    "amount": "$287",
+    "category": "Travel",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "5-January-2024",
+    "amount": "$127",
+    "category": "Food",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "19-June-2024",
+    "amount": "$279",
+    "category": "Utilities",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "10-September-2024",
+    "amount": "$352",
+    "category": "Shopping",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "27-August-2024",
+    "amount": "$532",
+    "category": "Entertainment",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "27-March-2024",
+    "amount": "$265",
+    "category": "Entertainment",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "3-January-2024",
+    "amount": "$353",
+    "category": "Utilities",
+    "description": "Movie night"
+  },
+  {
+    "date": "15-March-2023",
+    "amount": "$413",
+    "category": "Travel",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "5-March-2024",
+    "amount": "$247",
+    "category": "Entertainment",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "4-February-2023",
+    "amount": "$539",
+    "category": "Entertainment",
+    "description": "Movie night"
+  },
+  {
+    "date": "1-December-2023",
+    "amount": "$369",
+    "category": "Utilities",
+    "description": "Online shopping"
+  },
+  {
+    "date": "8-March-2024",
+    "amount": "$108",
+    "category": "Food",
+    "description": "Movie night"
+  },
+  {
+    "date": "17-April-2024",
+    "amount": "$541",
+    "category": "Utilities",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "28-March-2024",
+    "amount": "$99",
+    "category": "Entertainment",
+    "description": "Movie night"
+  },
+  {
+    "date": "3-January-2024",
+    "amount": "$172",
+    "category": "Entertainment",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "16-July-2024",
+    "amount": "$321",
+    "category": "Travel",
+    "description": "Online shopping"
+  },
+  {
+    "date": "8-September-2023",
+    "amount": "$275",
+    "category": "Shopping",
+    "description": "Online shopping"
+  },
+  {
+    "date": "25-March-2023",
+    "amount": "$505",
+    "category": "Utilities",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "2-April-2024",
+    "amount": "$378",
+    "category": "Shopping",
+    "description": "Movie night"
+  },
+  {
+    "date": "10-November-2024",
+    "amount": "$230",
+    "category": "Food",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "15-September-2024",
+    "amount": "$350",
+    "category": "Shopping",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "19-May-2024",
+    "amount": "$392",
+    "category": "Food",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "21-July-2024",
+    "amount": "$137",
+    "category": "Food",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "10-June-2023",
+    "amount": "$239",
+    "category": "Travel",
+    "description": "Online shopping"
+  },
+  {
+    "date": "28-April-2023",
+    "amount": "$66",
+    "category": "Utilities",
+    "description": "Movie night"
+  },
+  {
+    "date": "22-June-2024",
+    "amount": "$318",
+    "category": "Utilities",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "1-March-2024",
+    "amount": "$255",
+    "category": "Food",
+    "description": "Movie night"
+  },
+  {
+    "date": "2-December-2024",
+    "amount": "$99",
+    "category": "Food",
+    "description": "Online shopping"
+  },
+  {
+    "date": "22-January-2023",
+    "amount": "$491",
+    "category": "Shopping",
+    "description": "Online shopping"
+  },
+  {
+    "date": "21-August-2023",
+    "amount": "$141",
+    "category": "Shopping",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "26-October-2023",
+    "amount": "$409",
+    "category": "Entertainment",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "9-January-2023",
+    "amount": "$267",
+    "category": "Travel",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "9-September-2024",
+    "amount": "$230",
+    "category": "Travel",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "5-January-2024",
+    "amount": "$401",
+    "category": "Food",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "8-August-2023",
+    "amount": "$268",
+    "category": "Utilities",
+    "description": "Movie night"
+  },
+  {
+    "date": "6-October-2023",
+    "amount": "$152",
+    "category": "Utilities",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "20-February-2023",
+    "amount": "$424",
+    "category": "Travel",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "4-November-2023",
+    "amount": "$398",
+    "category": "Travel",
+    "description": "Movie night"
+  },
+  {
+    "date": "7-October-2023",
+    "amount": "$518",
+    "category": "Entertainment",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "10-July-2023",
+    "amount": "$403",
+    "category": "Utilities",
+    "description": "Online shopping"
+  },
+  {
+    "date": "23-August-2024",
+    "amount": "$505",
+    "category": "Shopping",
+    "description": "Online shopping"
+  },
+  {
+    "date": "3-April-2023",
+    "amount": "$429",
+    "category": "Shopping",
+    "description": "Movie night"
+  },
+  {
+    "date": "7-January-2024",
+    "amount": "$136",
+    "category": "Shopping",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "2-September-2023",
+    "amount": "$458",
+    "category": "Food",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "9-June-2023",
+    "amount": "$486",
+    "category": "Shopping",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "26-November-2024",
+    "amount": "$345",
+    "category": "Shopping",
+    "description": "Movie night"
+  },
+  {
+    "date": "27-December-2024",
+    "amount": "$481",
+    "category": "Utilities",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "28-January-2024",
+    "amount": "$90",
+    "category": "Travel",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "13-March-2024",
+    "amount": "$276",
+    "category": "Shopping",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "3-September-2024",
+    "amount": "$109",
+    "category": "Food",
+    "description": "Online shopping"
+  },
+  {
+    "date": "15-May-2023",
+    "amount": "$308",
+    "category": "Travel",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "5-July-2023",
+    "amount": "$70",
+    "category": "Shopping",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "2-May-2023",
+    "amount": "$200",
+    "category": "Entertainment",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "6-March-2024",
+    "amount": "$332",
+    "category": "Food",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "6-September-2023",
+    "amount": "$231",
+    "category": "Travel",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "20-December-2023",
+    "amount": "$377",
+    "category": "Travel",
+    "description": "Online shopping"
+  },
+  {
+    "date": "19-May-2023",
+    "amount": "$291",
+    "category": "Travel",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "10-June-2024",
+    "amount": "$167",
+    "category": "Food",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "18-June-2024",
+    "amount": "$329",
+    "category": "Shopping",
+    "description": "Movie night"
+  },
+  {
+    "date": "15-June-2024",
+    "amount": "$443",
+    "category": "Utilities",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "9-November-2024",
+    "amount": "$456",
+    "category": "Entertainment",
+    "description": "Online shopping"
+  },
+  {
+    "date": "23-August-2024",
+    "amount": "$450",
+    "category": "Travel",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "1-July-2023",
+    "amount": "$250",
+    "category": "Entertainment",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "16-April-2024",
+    "amount": "$393",
+    "category": "Shopping",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "1-November-2024",
+    "amount": "$499",
+    "category": "Food",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "8-January-2024",
+    "amount": "$297",
+    "category": "Travel",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "1-April-2023",
+    "amount": "$147",
+    "category": "Food",
+    "description": "Movie night"
+  },
+  {
+    "date": "11-May-2023",
+    "amount": "$470",
+    "category": "Shopping",
+    "description": "Movie night"
+  },
+  {
+    "date": "9-April-2024",
+    "amount": "$199",
+    "category": "Travel",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "26-November-2023",
+    "amount": "$299",
+    "category": "Utilities",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "27-April-2024",
+    "amount": "$126",
+    "category": "Travel",
+    "description": "Online shopping"
+  },
+  {
+    "date": "22-July-2024",
+    "amount": "$118",
+    "category": "Travel",
+    "description": "Online shopping"
+  },
+  {
+    "date": "27-April-2024",
+    "amount": "$284",
+    "category": "Entertainment",
+    "description": "Online shopping"
+  },
+  {
+    "date": "19-March-2024",
+    "amount": "$69",
+    "category": "Travel",
+    "description": "Online shopping"
+  },
+  {
+    "date": "5-July-2024",
+    "amount": "$239",
+    "category": "Shopping",
+    "description": "Online shopping"
+  },
+  {
+    "date": "7-November-2023",
+    "amount": "$180",
+    "category": "Travel",
+    "description": "Online shopping"
+  },
+  {
+    "date": "15-January-2023",
+    "amount": "$256",
+    "category": "Food",
+    "description": "Movie night"
+  },
+  {
+    "date": "10-October-2023",
+    "amount": "$168",
+    "category": "Shopping",
+    "description": "Online shopping"
+  },
+  {
+    "date": "15-May-2024",
+    "amount": "$165",
+    "category": "Travel",
+    "description": "Movie night"
+  },
+  {
+    "date": "11-August-2024",
+    "amount": "$406",
+    "category": "Travel",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "20-July-2024",
+    "amount": "$417",
+    "category": "Food",
+    "description": "Movie night"
+  },
+  {
+    "date": "17-January-2023",
+    "amount": "$301",
+    "category": "Shopping",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "14-June-2024",
+    "amount": "$442",
+    "category": "Entertainment",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "21-May-2023",
+    "amount": "$331",
+    "category": "Shopping",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "11-June-2023",
+    "amount": "$251",
+    "category": "Travel",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "5-June-2024",
+    "amount": "$333",
+    "category": "Shopping",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "16-July-2023",
+    "amount": "$152",
+    "category": "Food",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "8-July-2024",
+    "amount": "$505",
+    "category": "Utilities",
+    "description": "Online shopping"
+  },
+  {
+    "date": "19-September-2023",
+    "amount": "$463",
+    "category": "Utilities",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "12-May-2023",
+    "amount": "$367",
+    "category": "Utilities",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "13-September-2023",
+    "amount": "$249",
+    "category": "Travel",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "12-May-2023",
+    "amount": "$157",
+    "category": "Shopping",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "27-July-2024",
+    "amount": "$76",
+    "category": "Travel",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "22-July-2023",
+    "amount": "$64",
+    "category": "Utilities",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "8-September-2023",
+    "amount": "$204",
+    "category": "Travel",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "1-February-2024",
+    "amount": "$489",
+    "category": "Shopping",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "24-December-2023",
+    "amount": "$306",
+    "category": "Travel",
+    "description": "Online shopping"
+  },
+  {
+    "date": "9-July-2023",
+    "amount": "$144",
+    "category": "Shopping",
+    "description": "Online shopping"
+  },
+  {
+    "date": "8-February-2024",
+    "amount": "$151",
+    "category": "Shopping",
+    "description": "Online shopping"
+  },
+  {
+    "date": "12-September-2024",
+    "amount": "$198",
+    "category": "Entertainment",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "14-May-2023",
+    "amount": "$67",
+    "category": "Food",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "12-October-2024",
+    "amount": "$442",
+    "category": "Shopping",
+    "description": "Online shopping"
+  },
+  {
+    "date": "15-September-2023",
+    "amount": "$413",
+    "category": "Travel",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "28-May-2023",
+    "amount": "$287",
+    "category": "Entertainment",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "23-February-2024",
+    "amount": "$192",
+    "category": "Entertainment",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "26-January-2024",
+    "amount": "$274",
+    "category": "Entertainment",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "21-December-2024",
+    "amount": "$446",
+    "category": "Utilities",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "12-March-2024",
+    "amount": "$526",
+    "category": "Utilities",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "16-March-2024",
+    "amount": "$161",
+    "category": "Travel",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "12-January-2024",
+    "amount": "$508",
+    "category": "Travel",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "20-April-2024",
+    "amount": "$195",
+    "category": "Entertainment",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "7-March-2023",
+    "amount": "$268",
+    "category": "Travel",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "25-September-2024",
+    "amount": "$179",
+    "category": "Travel",
+    "description": "Movie night"
+  },
+  {
+    "date": "11-November-2024",
+    "amount": "$502",
+    "category": "Shopping",
+    "description": "Movie night"
+  },
+  {
+    "date": "21-October-2023",
+    "amount": "$333",
+    "category": "Food",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "1-July-2023",
+    "amount": "$506",
+    "category": "Travel",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "23-December-2023",
+    "amount": "$424",
+    "category": "Shopping",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "9-May-2024",
+    "amount": "$455",
+    "category": "Entertainment",
+    "description": "Movie night"
+  },
+  {
+    "date": "9-June-2023",
+    "amount": "$482",
+    "category": "Shopping",
+    "description": "Movie night"
+  },
+  {
+    "date": "23-April-2023",
+    "amount": "$529",
+    "category": "Shopping",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "15-July-2023",
+    "amount": "$246",
+    "category": "Utilities",
+    "description": "Online shopping"
+  },
+  {
+    "date": "18-June-2023",
+    "amount": "$412",
+    "category": "Shopping",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "13-December-2023",
+    "amount": "$490",
+    "category": "Utilities",
+    "description": "Movie night"
+  },
+  {
+    "date": "8-April-2023",
+    "amount": "$414",
+    "category": "Travel",
+    "description": "Movie night"
+  },
+  {
+    "date": "12-August-2023",
+    "amount": "$380",
+    "category": "Shopping",
+    "description": "Online shopping"
+  },
+  {
+    "date": "24-October-2024",
+    "amount": "$116",
+    "category": "Travel",
+    "description": "Online shopping"
+  },
+  {
+    "date": "5-July-2023",
+    "amount": "$469",
+    "category": "Utilities",
+    "description": "Online shopping"
+  },
+  {
+    "date": "23-August-2024",
+    "amount": "$116",
+    "category": "Entertainment",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "1-September-2023",
+    "amount": "$57",
+    "category": "Shopping",
+    "description": "Online shopping"
+  },
+  {
+    "date": "11-June-2023",
+    "amount": "$460",
+    "category": "Utilities",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "3-March-2023",
+    "amount": "$495",
+    "category": "Entertainment",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "17-October-2023",
+    "amount": "$196",
+    "category": "Utilities",
+    "description": "Movie night"
+  },
+  {
+    "date": "26-February-2023",
+    "amount": "$204",
+    "category": "Shopping",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "14-June-2024",
+    "amount": "$112",
+    "category": "Shopping",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "8-October-2024",
+    "amount": "$515",
+    "category": "Food",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "14-June-2023",
+    "amount": "$70",
+    "category": "Entertainment",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "9-September-2024",
+    "amount": "$151",
+    "category": "Shopping",
+    "description": "Online shopping"
+  },
+  {
+    "date": "24-August-2023",
+    "amount": "$485",
+    "category": "Food",
+    "description": "Movie night"
+  },
+  {
+    "date": "10-March-2024",
+    "amount": "$157",
+    "category": "Utilities",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "5-January-2023",
+    "amount": "$442",
+    "category": "Shopping",
+    "description": "Movie night"
+  },
+  {
+    "date": "28-June-2024",
+    "amount": "$470",
+    "category": "Utilities",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "12-October-2024",
+    "amount": "$526",
+    "category": "Food",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "8-January-2023",
+    "amount": "$62",
+    "category": "Shopping",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "1-June-2023",
+    "amount": "$250",
+    "category": "Utilities",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "7-October-2023",
+    "amount": "$152",
+    "category": "Entertainment",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "10-December-2023",
+    "amount": "$78",
+    "category": "Travel",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "2-October-2024",
+    "amount": "$133",
+    "category": "Shopping",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "8-June-2024",
+    "amount": "$461",
+    "category": "Shopping",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "7-September-2024",
+    "amount": "$152",
+    "category": "Travel",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "18-November-2024",
+    "amount": "$390",
+    "category": "Travel",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "21-September-2024",
+    "amount": "$299",
+    "category": "Shopping",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "13-August-2024",
+    "amount": "$278",
+    "category": "Utilities",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "3-August-2023",
+    "amount": "$465",
+    "category": "Entertainment",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "20-July-2024",
+    "amount": "$464",
+    "category": "Travel",
+    "description": "Movie night"
+  },
+  {
+    "date": "20-December-2023",
+    "amount": "$117",
+    "category": "Shopping",
+    "description": "Online shopping"
+  },
+  {
+    "date": "11-January-2023",
+    "amount": "$408",
+    "category": "Utilities",
+    "description": "Online shopping"
+  },
+  {
+    "date": "12-November-2024",
+    "amount": "$182",
+    "category": "Entertainment",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "24-May-2024",
+    "amount": "$490",
+    "category": "Shopping",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "5-October-2024",
+    "amount": "$150",
+    "category": "Travel",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "14-November-2024",
+    "amount": "$369",
+    "category": "Travel",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "14-May-2024",
+    "amount": "$115",
+    "category": "Entertainment",
+    "description": "Online shopping"
+  },
+  {
+    "date": "28-February-2024",
+    "amount": "$107",
+    "category": "Utilities",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "5-June-2024",
+    "amount": "$346",
+    "category": "Utilities",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "18-January-2023",
+    "amount": "$338",
+    "category": "Travel",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "6-August-2024",
+    "amount": "$177",
+    "category": "Entertainment",
+    "description": "Movie night"
+  },
+  {
+    "date": "13-July-2023",
+    "amount": "$232",
+    "category": "Utilities",
+    "description": "Online shopping"
+  },
+  {
+    "date": "11-November-2023",
+    "amount": "$208",
+    "category": "Entertainment",
+    "description": "Movie night"
+  },
+  {
+    "date": "9-August-2023",
+    "amount": "$281",
+    "category": "Entertainment",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "15-March-2023",
+    "amount": "$207",
+    "category": "Travel",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "4-December-2023",
+    "amount": "$439",
+    "category": "Shopping",
+    "description": "Online shopping"
+  },
+  {
+    "date": "15-March-2023",
+    "amount": "$87",
+    "category": "Food",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "2-August-2024",
+    "amount": "$420",
+    "category": "Entertainment",
+    "description": "Online shopping"
+  },
+  {
+    "date": "18-April-2024",
+    "amount": "$115",
+    "category": "Shopping",
+    "description": "Online shopping"
+  },
+  {
+    "date": "28-November-2024",
+    "amount": "$252",
+    "category": "Shopping",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "10-May-2024",
+    "amount": "$518",
+    "category": "Shopping",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "13-June-2023",
+    "amount": "$283",
+    "category": "Food",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "23-October-2024",
+    "amount": "$457",
+    "category": "Food",
+    "description": "Movie night"
+  },
+  {
+    "date": "28-February-2023",
+    "amount": "$400",
+    "category": "Utilities",
+    "description": "Online shopping"
+  },
+  {
+    "date": "4-April-2023",
+    "amount": "$320",
+    "category": "Shopping",
+    "description": "Dinner with family"
+  },
+  {
+    "date": "1-March-2024",
+    "amount": "$92",
+    "category": "Entertainment",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "7-July-2023",
+    "amount": "$411",
+    "category": "Travel",
+    "description": "Flight tickets"
+  },
+  {
+    "date": "24-October-2023",
+    "amount": "$294",
+    "category": "Utilities",
+    "description": "Online shopping"
+  },
+  {
+    "date": "22-February-2024",
+    "amount": "$134",
+    "category": "Utilities",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "6-January-2023",
+    "amount": "$531",
+    "category": "Food",
+    "description": "Electricity bill"
+  },
+  {
+    "date": "22-June-2023",
+    "amount": "$479",
+    "category": "Utilities",
+    "description": "Dinner with family"
+  }
+]
