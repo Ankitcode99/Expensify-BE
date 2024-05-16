@@ -4,7 +4,7 @@ import { JwtUtil } from '../utils/tokenUtils'; // Assuming jwt.util is the file 
 declare global {
     namespace Express {
       interface Request {
-        user?: any; // Replace 'any' with your user data type if known
+        user?: {email: string, id: string}; // Replace 'any' with your user data type if known
       }
     }
   }
@@ -22,7 +22,7 @@ export async function authMiddleware(req: Request, res: Response, next: NextFunc
     const decodedPayload = await JwtUtil.verifyToken(token);
     if (decodedPayload) {
       // Attach decoded data (e.g., user ID) to the request object for access in route handlers
-      req.user = decodedPayload;
+      req.user = decodedPayload as {email: string, id: string};
       next();
     } else {
       return res.status(401).json({ message: 'Invalid token' });

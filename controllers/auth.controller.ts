@@ -6,6 +6,7 @@ export class UserController {
   static async signup(req: Request, res: Response) {
     try {
       const payload: CreateUserDto = req.body;
+      console.log("Received signup payload - ", payload)
       const newUserCreationResult = await AuthService.signup(payload);
       res.status(201).json({
         data: newUserCreationResult.userId,
@@ -19,6 +20,8 @@ export class UserController {
   static async login(req: Request, res: Response) {
     try {
       const payload = req.body;
+      console.log("Received login payload - ", payload)
+
       const token = await AuthService.login(payload);
       res.json({ token: token });
     } catch (error) {

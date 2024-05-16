@@ -3,12 +3,6 @@ import {z} from "zod"
 
 export const UserSchema = z.object({
     id: z.string().optional(),
-    username: z
-        .string({
-            required_error: 'Name is required',
-        })
-        .trim()
-        .min(3, 'Username should have atleast 3 characters'),
     email: z
         .string({
             required_error: 'Email is required',

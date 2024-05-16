@@ -12,11 +12,13 @@ export const ExpenseSchema = z.object({
             required_error: 'Expense amount is required',
         })
         .positive('Amount must be a positive number'),
-    date: z.date({
+    date: z.string({
         required_error: 'Expense date is required',
     }),
     description: z.string().optional()
   });
 
-export type ExpenseDto = z.infer<typeof ExpenseSchema>;
 
+
+export type ExpenseDto = z.infer<typeof ExpenseSchema>;
+export type ExpenseDtoWithUserId = ExpenseDto & {userId: string}

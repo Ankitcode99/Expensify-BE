@@ -21,7 +21,6 @@ export class AuthService {
        const userObj = {
             email: createUserPayload.email,
             id: newUserId,
-            username: createUserPayload.username,
             password: hashedPassword
         };
 
@@ -47,7 +46,7 @@ export class AuthService {
             throw new Error("No user details found with provided credentials");
         }
 
-        return JwtUtil.generateToken(userObj);
+        return JwtUtil.generateToken({email: userObj.email, id: userObj.id});
     }
   }
   
